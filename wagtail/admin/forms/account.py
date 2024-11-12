@@ -141,3 +141,5 @@ class ThemePreferencesForm(forms.ModelForm):
     class Meta:
         model = UserProfile
         fields = ["theme", "contrast", "density"]
+
+# Great work by team !! Appreciable 
